@@ -24,7 +24,7 @@ This project investigates long-term mortality trends in Brazil using data from 1
 | `Analysis.R` | R script with data processing, correlation test, and visualisations |
 | `Histogram.png` | Histogram showing the distribution of total deaths |
 | `Scatter_plot.png` | Scatter plot of Year vs Total Deaths with regression line |
-| `7COM1079_Final+report_A217` | Final report submitted for assessment |
+| `7COM1079_Final_Report_A217_DS093` | Final report submitted for assessment |
 | `Git_log.png` | Screenshot of commit history used as collaboration evidence |
 | `README.md` | Summary and documentation of the project |
 ## Summary of Findings
