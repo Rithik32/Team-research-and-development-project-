@@ -16,14 +16,14 @@ This project investigates long-term mortality trends in Brazil using data from 1
 - Producing the final written report  
 - Collaborating through GitHub to document contributions
 
-## Repository Contents
+## Repository Contents  
 
-File_Description
-
- dataset.csv | DS093 dataset containing annual total deaths for Brazil (1990–2019) 
- Analysis.R | R script with data processing, correlation test, and visualisations 
- Histogram.png | Histogram showing the distribution of total deaths 
- Scatter_plot.png | Scatter plot of Year vs Total Deaths with regression line 
- 7COM1079_Final+report_A217 | Final report submitted for assessment 
- Git_log.png | Screenshot of the commit history used as evidence of group collaboration 
- README.md | Summary and documentation of the project
+| File | Description |
+|------|-------------|
+| `dataset.csv` | DS093 dataset containing annual total deaths for Brazil (1990–2019) |
+| `Analysis.R` | R script with data processing, correlation test, and visualisations |
+| `Histogram.png` | Histogram showing the distribution of total deaths |
+| `Scatter_plot.png` | Scatter plot of Year vs Total Deaths with regression line |
+| `7COM1079_Final+report_A217` | Final report submitted for assessment |
+| `Git_log.png` | Screenshot of commit history used as collaboration evidence |
+| `README.md` | Summary and documentation of the project |
