@@ -27,3 +27,21 @@ This project investigates long-term mortality trends in Brazil using data from 1
 | `7COM1079_Final+report_A217` | Final report submitted for assessment |
 | `Git_log.png` | Screenshot of commit history used as collaboration evidence |
 | `README.md` | Summary and documentation of the project |
+## Summary of Findings
+The Pearson correlation coefficient between Year and Total Deaths is 0.9805, with a p-value less than 2.2e-16. This indicates a very strong and statistically significant positive correlation. The trend reflects Brazil’s demographic changes, including population growth and ageing. The findings are consistent with literature describing long-term mortality transitions in developing economies.
+
+## Group Members (A217)
+- Sai Dinesh Pamarthi – 24132569  
+- Rithik Raj – 24177697  
+- Mudasar Latif – 24177442  
+- Piyusha Suggala – 24135132  
+- Kesini Chowdary Doddapaneni – 24156907
+
+## Tools Used
+- RStudio  
+- tidyverse  
+- ggplot2  
+- GitHub
+
+## Additional Notes
+This repository shows the group’s use of version control for collaboration, documentation, and transparency. All required components for the DS093 project are included.
